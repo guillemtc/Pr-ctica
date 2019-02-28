@@ -1,4 +1,4 @@
-# Pràctica
+# Pràctica Mapbox
 Pràctica m2
 En la meva pràctica podem veure en l'aplicació de Mapbox, un mapa satèl·lit de la ciutat de Barcelona.
 En aquest cas, fa referència el nombre d'accidents de trànsit de l'any 2017 a la ciutat de Barcelona segons el dia de la setmana.
